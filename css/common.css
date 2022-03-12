@@ -1,6 +1,5 @@
 @media (prefers-color-scheme: light) {
     :root {
-        --primary-color: #048204;
         --nav-bar-color: #e0e0e0;
         --background-color: #ffffff;
         --text-color: #000000;
@@ -9,11 +8,14 @@
 
 @media (prefers-color-scheme: dark) {
     :root {
-        --primary-color: #048204;
         --nav-bar-color: #000000;
         --background-color: #202020;
         --text-color: #ffffff;
     } 
+}
+
+:root {
+    --primary-color: #048204;
 }
 
 body {
