@@ -1,0 +1,17 @@
+#body1 {
+    top: 140px;
+}
+
+.body table {
+    width: 100%;
+    padding: 11px 192px;
+}
+
+.body table td.col6 {
+    width: 50%;
+}
+
+.body table.grid img {
+    width: 80%;
+    margin: 0 10%;
+}

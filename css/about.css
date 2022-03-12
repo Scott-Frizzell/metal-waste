@@ -1,0 +1,89 @@
+#body1 {
+    top: 140px;
+}
+
+.body table.grid {
+    width: 100%;
+    padding: 11px 192px;
+}
+
+.body table.grid td.col6 {
+    width: 50%;
+}
+
+.body table.grid img {
+    width: 80%;
+    margin: 0 10%;
+}
+
+.profile {
+    width: 100%;
+    margin: auto 0px;
+}
+
+.profile .color-line {
+    height: 10px;
+    margin: 0px auto 5px;
+}
+
+.profile .color-line div {
+    height: 10px;
+    position: static;
+    margin: -5px 0px 0px auto;
+    background-color: var(--primary-color);
+}
+
+#color-dylan {
+    width: 465px;
+}
+
+#color-dylan div {
+    width: 100px;
+}
+
+#color-ava {
+    width: 310px;
+}
+
+#color-ava div {
+    width: 91px;
+}
+
+#color-scott {
+    width: 360px;
+}
+
+#color-scott div {
+    width: 75px;
+}
+
+#color-sergio {
+    width: 370px;
+}
+
+#color-sergio div {
+    width: 96px;
+}
+
+.profile p {
+    padding: 0% 10%;
+    font-size: 20px;
+    margin: 0px;
+    color: var(--text-color);
+    text-align: justify;
+}
+
+.body table.link-icons {
+    width: fit-content;
+    padding: 11px 0px;
+    margin: 0 auto;
+}
+
+.body table.link-icons td {
+    padding: 0 7px;
+}
+
+.body table.link-icons a img {
+    width: 40px;
+    margin: 0px;
+}
