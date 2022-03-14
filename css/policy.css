@@ -19,9 +19,9 @@
 #yt-embed {
     width: 60%;
     margin: 50px auto;
-    background-color: #000000;
 }
 
-#yt-embed img, #yt-embed iframe {
-    width: 100%;
+#yt-embed iframe {
+    width: 48vw;
+    height: 27vw;
 }
