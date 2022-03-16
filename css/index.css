@@ -56,7 +56,7 @@
     background-image: url("../media/background.png");
 }
 
-.caption {
+p.caption {
     color: var(--text-color);
     text-align: center;
     font-size: 18px;
